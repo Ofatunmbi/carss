@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "..\\bunmi"
+		},
+		{
+			"path": "..\\loveth"
+		},
+		{
+			"path": "..\\bbb"
+		},
+		{
+			"path": "..\\scripts"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "cars"
+	}
+}
